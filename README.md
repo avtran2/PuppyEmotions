@@ -3,7 +3,7 @@
 
 ### Demonstrate how a state machine works using an array of images of puppies
 
-####Repository Includes:
+#### Repository Includes:
 #### PDE
 #### Assets Folder with 6 JPG files
 #### License
