@@ -101,12 +101,12 @@ void setup(){
     size(1024, 800);
     
     imageList=new PImage[6];
-    imageList[0]=loadImage("Assets/SleepyPuppy1.jpg");             
-    imageList[1]=loadImage("Assets/MadPuppy1.jpg");
-    imageList[2]=loadImage("Assets/SadPuppy1.jpg");
-    imageList[3]=loadImage("Assets/HappyPuppy1.jpg");
-    imageList[4]=loadImage("Assets/SickPuppy1.jpg");  
-    imageList[5]=loadImage("Assets/ScaredPuppy1.jpg");
+    imageList[0]=loadImage("SleepyPuppy1.jpg");             
+    imageList[1]=loadImage("MadPuppy1.jpg");
+    imageList[2]=loadImage("SadPuppy1.jpg");
+    imageList[3]=loadImage("HappyPuppy1.jpg");
+    imageList[4]=loadImage("SickPuppy1.jpg");  
+    imageList[5]=loadImage("ScaredPuppy1.jpg");
     img=imageList[0];
     
     imageMode(CENTER);
